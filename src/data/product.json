@@ -1,0 +1,425 @@
+[
+    {
+        "id": 1,
+        "title": "eTOS",
+        "isModules": true,
+        "module": [
+            {
+                "id": 1.1,
+                "title": "Assets",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/assets.png"
+            },
+            {
+                "id": 1.2,
+                "title": "Procurement",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/procurement.png"
+            },
+            {
+                "id": 1.3,
+                "title": "CRM",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/crm.png"
+            },
+            {
+                "id": 1.4,
+                "title": "Financial Accounting",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/financial-accountng.png"
+            },
+            {
+                "id": 1.5,
+                "title": "Inventory",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/inventory.png"
+            }
+        ],
+        "description": [
+            {
+                "id": 1.21,
+                "desc": "Enable seamless integration and communication with the best software for retail store and other medium and large organisations with ETOS. Total Operating System software supports efficient management of multi domain and module of retail sector."
+            },
+            {
+                "id": 1.22,
+                "desc": "eTOS ERP is a suite of business applications covering in depth operational processes of an organisation covering end to end features and enhancements across the core business activities. eTOS provides value addition agility and greater insights on the crucial business areas adopting faster implementation, broader usage, easier maintenance and simpler operations."
+            },
+            {
+                "id": 1.23,
+                "desc": "Promote faster Sales online with a unified ERP system with personalised management solutions in purchase management sales, finances and warehousing with real time updation and assessment of cost centres to drive tangible business decision."
+            }
+        ],
+        "specailFeatures1": [
+            {
+                "id": 1.31,
+                "title": "Commerce",
+                "description": "eTOS offers ideal solutions to small and medium businesses with greater agility to complex commercial processes by facilitating transparent integration of business operations enabled with REST API."
+            },
+            {
+                "id": 1.32,
+                "title": "Architecture",
+                "description": "Eliminate space constraints and challenges of local storage with cloud based architecture of eTOS. Access unlimited storage space of data and information with a secured cloud platform."
+            },
+            {
+                "id": 1.33,
+                "title": "Compatibility",
+                "description": "The comprehensive UI of eTOS aids cross compatible functionality enabling a user interface that operates on a multi-device compatibility level from larger desktops to smaller mobiles."
+            }
+        ],
+        "specailFeatures2": [
+            {
+                "id": 1.35,
+                "title": "Architecture",
+                "description": "Eliminate space constraints and challenges of local storage with cloud based architecture of eTOS. Access unlimited storage space of data and information with a secured cloud platform."
+            },
+            {
+                "id": 1.32,
+                "title": "Administration",
+                "description": "Monitor and assess varied functionalities of business modules with inbuilt features such as management dashboard, report designer, e-document filing and approval system of workflows."
+            },
+            {
+                "id": 1.33,
+                "title": "Communication",
+                "description": "Business communication is simple with eTOS with inbuilt emailing, social networking and messaging features enabling a transparent internal and external communication system."
+            }
+        ],
+        "isDomain": true,
+        "domain": [
+            {
+                "id": 1.4,
+                "title": "Retail",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/trading-retail.png"
+            },
+            {
+                "id": 1.5,
+                "title": "Services",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/services.png"
+            },
+            {
+                "id": 1.6,
+                "title": "Trading",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/trading.png"
+            },
+            {
+                "id": 1.7,
+                "title": "Manufacturing",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/manufacturing.png"
+            },
+            {
+                "id": 1.8,
+                "title": "Distribution & Warehouse",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/distribution-warehouse.png"
+            },
+            {
+                "id": 1.9,
+                "title": "Project based organisation",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/project-based-organisation.png"
+            }
+        ],
+        "additionalFeatures": {
+            "id": 1.81,
+            "feature": [
+                {
+                    "id": 1.232,
+                    "title1": "Additional Features",
+                    "title": "Flexible Assessment",
+                    "description": "Discard additional Management work, option to choose Personalised Pricing and Inventory standards with real time monitoring and assessments.",
+                    "img": "https://avu.net.in/assets/img/product/etos/e3.webp"
+                },
+                {
+                    "id": 1.233,
+                    "title1": "",
+                    "title": "Robust Features",
+                    "description": "customer oriented request fulfillment, and friendly creatures to customize tasks and procedures based on general and specific business requirements.",
+                    "img": "https://avu.net.in/assets/img/product/etos/e2.webp"
+                },
+                {
+                    "id": 1.234,
+                    "title1": "",
+                    "title": "Cost Effective",
+                    "description": "Direct assistance from the vendors and technical executives of the software with on time responses, zero intermediaries and cost effective solutions.",
+                    "img": "https://avu.net.in/assets/img/product/etos/e3.webp"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "eTrade",
+        "isModules": true,
+        "module": [
+            {
+                "id": 2.1,
+                "title": "Sales & Customer",
+                "image": "https://avu.net.in/assets/img/product/etos/modules/assets.png"
+            },
+            {
+                "id": 2.2,
+                "title": "Purchase & Supplier",
+                "image": "https://avu.net.in/assets/img/product/etrade/sales-customer.png"
+            },
+            {
+                "id": 2.3,
+                "title": "Material & Inventory",
+                "image": "https://avu.net.in/assets/img/product/etrade/material-inventory.png"
+            },
+            {
+                "id": 2.4,
+                "title": "Accounts & Finance",
+                "image": "https://avu.net.in/assets/img/product/etrade/accounts-finance.png"
+            }
+        ],
+        "description": [
+            {
+                "id": 2.21,
+                "desc": "Adapt the latest computing technology and comprehensive business practices with eTrade ERP systems. eTrade ERP software offers holistic solutions in Customer Relationship Management, Supply Chain Management & Financial Management to Small, Medium and Large business enterprises."
+            },
+            {
+                "id": 2.22,
+                "desc": "Implement better business decisions to achieve performance goals seamlessly with a eTrade customised range of offerings to analyse, forecast, monitor, report and drive everyday business operations with effective ERP management systems."
+            },
+            {
+                "id": 2.23,
+                "desc": "eTrade ERP forecasts corporate performance by furnishing actionable data to the decision makers of the enterprise. The best ERP for startups and small business structures drive immediate implementation and rollout within 15 days for a small and medium organisation. The extensive features are specific to modules supporting complete operations of the organisation."
+            }
+        ],
+        "specailFeatures1": [
+            {
+                "id": 2.31,
+                "title": "Agile",
+                "description": "eTrade understands both internal & external business requirements to deliberately offer frequent assessment of business goals."
+            },
+            {
+                "id": 2.32,
+                "title": "Flexible",
+                "description": "eTrade adapts to robust scenarios of every business and delivers unified solutions to corporate and business requirements."
+            },
+            {
+                "id": 2.33,
+                "title": "Comprehensive",
+                "description": "eTrade covers multi business operations from procurement management to financial reporting facilitating seamless integration."
+            }
+        ],
+        "specailFeatures2": [
+            {
+                "id": 2.35,
+                "title": "Friendly",
+                "description": "eTrade supports swift implementation of ERP across various business domains. The product enables a 15 day ready roll out."
+            },
+            {
+                "id": 2.32,
+                "title": "Easy",
+                "description": "eTrade is very easy to understand and work with. The eTrade ERP offers a complete business package to small and medium enterprises."
+            },
+            {
+                "id": 2.33,
+                "title": "Economical",
+                "description": "eTrade doesn’t require exorbitant investment. This SaaS model accepts payment on the basis of its usages."
+            }
+        ],
+        "isDomain": false,
+        "domain": [
+            {
+                "id": 1.4,
+                "title": "Retail",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/trading-retail.png"
+            },
+            {
+                "id": 1.5,
+                "title": "Services",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/services.png"
+            },
+            {
+                "id": 1.6,
+                "title": "Trading",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/trading.png"
+            },
+            {
+                "id": 1.7,
+                "title": "Manufacturing",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/manufacturing.png"
+            },
+            {
+                "id": 1.8,
+                "title": "Distribution & Warehouse",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/distribution-warehouse.png"
+            },
+            {
+                "id": 1.9,
+                "title": "Project based organisation",
+                "img": "https://avu.net.in/assets/img/product/etos/domain/project-based-organisation.png"
+            }
+        ],
+        "additionalFeatures": {
+            "id": 1.81,
+            "feature": [
+                {
+                    "id": 2.232,
+                    "title1": "Additional Features",
+                    "title": "Financial Reporting Made Easy",
+                    "description": "Agile implementation of eTrade ERP supports enterprise-wide implementation of systems that supports crucial decision making. The accounting module of eTrade engages central tracking and statistical representation of financial data under a single module comprising multi branch or multi verticals of a company.",
+                    "img": "https://avu.net.in/assets/img/product/etrade/e1.webp"
+                },
+                {
+                    "id": 2.233,
+                    "title1": "",
+                    "title": "Inventory Management Made Efficient",
+                    "description": "The inventory and stores management with eTrade ERP comprises powerful and flexible features and tasks to aid in the assessment and reporting of inventory maintenance and stock information at multiple levels of warehousing.",
+                    "img": "https://avu.net.in/assets/img/product/etrade/e2.webp"
+                },
+                {
+                    "id": 2.234,
+                    "title1": "",
+                    "title": "Sale Forecasting Made Flexible",
+                    "description": "Manage the sales of the company with eTrade ERP. Effective management of the sales operations from enquiry, lead capturing, lead conversion, order processing, contact & personnel management, invoicing and collection.",
+                    "img": "https://avu.net.in/assets/img/product/etrade/e3.webp"
+                },
+                {
+                    "id": 2.234,
+                    "title1": "",
+                    "title": "Material Procurement Made Simple",
+                    "description": "Multi functional procurement management in eTrade simplifies the purchase module seamlessly operating a procure-to-pay model for purchase order management and requisition process with increased efficiency, responsiveness and cost effectiveness.",
+                    "img": "https://avu.net.in/assets/img/product/etrade/e4.webp"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "eFreight",
+        "isModules": true,
+        "module": [
+            {
+                "id": 3.1,
+                "title": "Order Management",
+                "image": "https://avu.net.in/assets/img/product/ibridge/order-management.png"
+            },
+            {
+                "id": 3.3,
+                "title": "Budgeting",
+                "image": "https://avu.net.in/assets/img/product/ibridge/budgeting.png"
+            },
+            {
+                "id": 3.3,
+                "title": "CRM",
+                "image": "https://avu.net.in/assets/img/product/ibridge/crm.png"
+            },
+            {
+                "id": 3.4,
+                "title": "Shipment Management",
+                "image": "https://avu.net.in/assets/img/product/ibridge/shipment-management.png"
+            }
+        ],
+        "description": [
+            {
+                "id": 3.21,
+                "desc": "iBridge offers an integrated ERP solution enabling the role intermediary to facilitate intermodal transportation and customs clearance services between the parties of supply chain management such as the shipper, transporter leasing various carriers to make controlled decisions on logistics."
+            },
+            {
+                "id": 3.22,
+                "desc": "iBridge integrates control management for freight, warehousing, transportation, customs with CRM, accounting, finance, billing to forecast the profitability of the operations and covers the entire financial accounting linked to order and execution to give an insightful view of the business on various dimensions."
+            },
+            {
+                "id": 3.23,
+                "desc": "iBridge the best suited ERP software for supply chain management involving clearing and forwarding agents covering all the enquiries, orders, order execution, order budgeting and controlling, costing & profitability."
+            }
+        ],
+        "specailFeatures1": [
+            {
+                "id": 3.31,
+                "title": "Invoicing",
+                "description": "Support multimodal freight by document creation, financial reporting, accounting and multi-currency payments."
+            },
+            {
+                "id": 3.32,
+                "title": "Quotation",
+                "description": "Enable features such as quote generation and forwarding, Track quotation, communication models & conversion."
+            },
+            {
+                "id": 3.33,
+                "title": "Warehouse Management",
+                "description": "Ensure accuracy of order fulfilment, quicker deliveries, efficient labour management, optimised storage and productivity."
+            }
+        ],
+        "specailFeatures2": [
+            {
+                "id": 3.35,
+                "title": "CRM",
+                "description": "Get an view of the customers and prospects with communication tools, behaviour tracking to score leads and conversions."
+            },
+            {
+                "id": 3.32,
+                "title": "Shipment Management",
+                "description": "Manage documentation, waybills, TSA letters, bookings, loading schedule of all inbound and outbound cargo."
+            },
+            {
+                "id": 3.33,
+                "title": "Order Management",
+                "description": "Process orders across multiple channels. Track orders, manage invoicing, recurring orders and carrier integration."
+            }
+        ],
+        "isDomain": true,
+        "domain": [
+            {
+                "id": 3.4,
+                "title": "Logistics",
+                "img": "https://avu.net.in/assets/img/product/ibridge/logistics.png"
+            },
+            {
+                "id": 3.5,
+                "title": "Freight Forwarder",
+                "img": "https://avu.net.in/assets/img/product/ibridge/freight-forwarder.png"
+            },
+            {
+                "id": 3.6,
+                "title": "Transportation",
+                "img": "https://avu.net.in/assets/img/product/ibridge/transportation.png"
+            },
+            {
+                "id": 3.7,
+                "title": "Warehousing",
+                "img": "https://avu.net.in/assets/img/product/ibridge/warehousing.png"
+            },
+            {
+                "id": 3.8,
+                "title": "Custom Clearance",
+                "img": "https://avu.net.in/assets/img/product/ibridge/custom-clearance.png"
+            }
+        ],
+        "additionalFeatures": {
+            "id": 3.81,
+            "feature": [
+                {
+                    "id": 3.232,
+                    "title1": "Additional Features",
+                    "title": "Comprehensive Freight Forwarding Solution",
+                    "description": "An end-to-end freight forwarding software with easy and effective multi national freight management system covering both imports and exports. iBridge integrates sophisticated functionalities to help forwarding operations and operators of the supply chain under a single software leveraging maximized operational efficiency.",
+                    "img": "https://avu.net.in/assets/img/product/ibridge/8.webp"
+                },
+                {
+                    "id": 3.233,
+                    "title1": "",
+                    "title": "Increased Operational Efficiency & Cost Effective",
+                    "description": "The freight forwarding software automates the freight forwarding process that helps to eliminate manual paper work and reduce operational costs by up to 40%. The system helps to build agility and ability to respond to the rapid changes in the industry.",
+                    "img": "https://avu.net.in/assets/img/product/ibridge/9.webp"
+                },
+                {
+                    "id": 3.234,
+                    "title1": "",
+                    "title": "Managed Inbound & Outbound Operations",
+                    "description": "iBridge is an end-to-end freight forwarding ERP offering easy and effective Inbound and Outbound freight forwarding operations for Multi shipment modes handling operations from alerts and notifications to shipments and delivery.",
+                    "img": "https://avu.net.in/assets/img/product/ibridge/10.webp"
+                },
+                {
+                    "id": 3.234,
+                    "title1": "",
+                    "title": "Seamless Tracking and Notifications",
+                    "description": "iBridge integration with other modules creates seamless transfer of information eliminating duplicate entries while monitoring department profit centers and customer management.",
+                    "img": "https://avu.net.in/assets/img/product/ibridge/8.webp"
+                },
+                {
+                    "id": 3.235,
+                    "title1": "",
+                    "title": "Improved Financial Control and Visibility",
+                    "description": "Manage and monitor the credit limits, revenue leakages with real time tracking features comprising automated reporting, optimised recording, invoicing, accounting, custom clearance and revenue operations.",
+                    "img": "https://avu.net.in/assets/img/product/ibridge/9.webp"
+                }
+            ]
+        }
+    }
+]

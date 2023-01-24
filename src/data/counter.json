@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "count": 300,
+        "title": "Projects Delivered"
+    },
+    {
+        "id": 2,
+        "count": 125,
+        "title": "Active Clients"
+    },
+    {
+        "id": 3,
+        "count": 9,
+        "title": "Countries Served"
+    },
+    {
+        "id": 4,
+        "count": 6,
+        "title": "OEM Partners"
+    }
+]

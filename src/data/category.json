@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Product Consulting",
+        "img": "assets/img/services/01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Project Management Consulting",
+        "img": "assets/img/services/02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Strategy Consulting",
+        "img": "assets/img/services/03.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Human Resource Consulting",
+        "img": "assets/img/services/04.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Management Consulting",
+        "img": "assets/img/services/05.jpg"
+    }
+]

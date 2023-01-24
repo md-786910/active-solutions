@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "GCC",
+        "text": "Gulf Cooperation Council"
+    },
+    {
+        "id": 2,
+        "title": "MENA",
+        "text": "Middle East & North Africa"
+    },
+    {
+        "id": 3,
+        "title": "APAC",
+        "text": "Asia Pacific"
+    }
+]

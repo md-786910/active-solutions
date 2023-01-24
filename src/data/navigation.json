@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link": "/"
+    },
+    {
+        "id": 2,
+        "linkText": "About",
+        "link": "/about"
+    },
+    {
+        "id": 3,
+        "linkText": "Services",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/services/Product Consulting",
+                "linkText": "PRODUCT CONSULTING"
+            },
+            {
+                "id": 3.2,
+                "link": "/services/Project management Consulting",
+                "linkText": "Project management Consulting"
+            },
+            {
+                "id": 3.3,
+                "link": "/services/Strategy Consulting",
+                "linkText": "Strategy Consulting"
+            },
+            {
+                "id": 3.4,
+                "link": "/services/Human Resource Consulting",
+                "linkText": "Human Resource Consulting"
+            },
+            {
+                "id": 3.5,
+                "link": "/services/Management consulting",
+                "linkText": "Management consulting"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Products",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "linkPro": "/product/eTOS",
+                "linkText": "eTOS"
+            },
+            {
+                "id": 4.3,
+                "linkText": "eTrade",
+                "linkPro": "/product/eTrade"
+            },
+            {
+                "id": 4.4,
+                "linkPro": "/product/eFreight",
+                "linkText": "eFreight"
+            },
+            {
+                "id": 4.5,
+                "linkPro": "/product/eEstate",
+                "linkText": "eEstate"
+            },
+            {
+                "id": 4.5,
+                "linkPro": "/product/eRetail",
+                "linkText": "eRetail"
+            },
+            {
+                "id": 4.5,
+                "linkPro": "/product/eEntertain",
+                "linkText": "eEntertain"
+            }
+        ]
+    }
+]

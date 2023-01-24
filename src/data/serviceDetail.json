@@ -1,0 +1,269 @@
+[
+    {
+        "id": 1,
+        "data1": {
+            "id": 1.20,
+            "description": "Product life cycle management is a process that involves continuous monitoring and adaptation to changes in the market and customer needs. It requires strategic thinking, attention to detail, and the ability to make data-driven decisions. Additionally, it's important to communicate effectively with stakeholders to ensure that everyone is aware of the product's status, and any changes that are being made."
+        },
+        "data2": {
+            "id": 1.21,
+            "description": ""
+        },
+        "img": "/assets/img/services/01.jpg",
+        "description": [
+            {
+                "id": 1.1,
+                "description": "Identify the product life cycle stage: Identify the stage of the product's life cycle, whether it is in the introduction, growth, maturity, or decline stage."
+            },
+            {
+                "id": 1.2,
+                "description": "Develop a product strategy: Develop a product strategy that aligns with the stage of the product's life cycle. For example, a new product in the introduction stage may require more investment in marketing and product development, while a mature product may require more focus on cost-cutting measures and incremental improvements."
+            },
+            {
+                "id": 1.3,
+                "description": "Develop a product strategy: Develop a product strategy that aligns with the stage of the product's life cycle. For example, a new product in the introduction stage may require more investment in marketing and product development, while a mature product may require more focus on cost-cutting measures and incremental improvements."
+            },
+            {
+                "id": 1.4,
+                "description": "Continuously improve: Continuously improve the product through ongoing research and development, such as by making design or feature changes, or by improving manufacturing processes."
+            },
+            {
+                "id": 1.5,
+                "description": "Manage the product portfolio: Manage the product portfolio by regularly reviewing the products, discontinuing those that are no longer profitable and investing in new products that align with the company's overall goals and objectives."
+            },
+            {
+                "id": 1.6,
+                "description": "Use data-driven insights: Use data-driven insights to make decisions about product pricing, promotion, and distribution."
+            },
+            {
+                "id": 1.7,
+                "description": "Communicate with stakeholders: Communicate with stakeholders such as customers, suppliers, and internal teams to ensure that everyone is aware of the product's status and any changes that are being made."
+            }
+        ],
+        "title": "PRODUCT CONSULTING"
+    },
+    {
+        "id": 2,
+        "img": "/assets/img/services/02.jpg",
+        "data1": {
+            "id": 2.91,
+            "description": "Project management consulting can help organizations of all sizes and industries to achieve their project goals, improve the efficiency and effectiveness of their project management processes, and ultimately increase the chances of project success.<br/></br>The Project Management Institute (PMI) defines project management life cycle as Initiating, Planning, Executing, Monitoring & Controlling and closing. The project management life cycle is an iterative process and not a linear process, meaning that there could be feedback loops and revisions in each phase, depending on the project needs. A Project Manager should be able to adapt the project management life cycle to fit the specific needs of the project, as well as the organization and its goals"
+        },
+        "data2": {
+            "id": 2.92,
+            "description": ""
+        },
+        "image": "/assets/img/details/2.jpg",
+        "description": [
+            {
+                "id": 2.1,
+                "description": "Assessing current project management processes and identifying areas for improvement."
+            },
+            {
+                "id": 2.2,
+                "description": "Developing project plans and timelines, including tasks, milestones, and resource requirements."
+            },
+            {
+                "id": 2.3,
+                "description": "Identifying and managing project risks, including developing risk management plans and contingency plans."
+            },
+            {
+                "id": 2.4,
+                "description": "Managing project resources, including personnel, equipment, and budget."
+            },
+            {
+                "id": 2.5,
+                "description": "Tracking project progress and making adjustments as needed to ensure that the project stays on schedule and within budget."
+            },
+            {
+                "id": 2.6,
+                "description": "Facilitating communication and collaboration among project team members, stakeholders, and other key project participants."
+            },
+            {
+                "id": 2.7,
+                "description": "Providing training and coaching to project team members and other stakeholders to improve project management skills and knowledge."
+            },
+            {
+                "id": 2.8,
+                "description": "Assisting with project closeout and evaluation, including documenting lessons learned and best practices for future projects."
+            },
+            {
+                "id": 2.9,
+                "description": "Facilitating communication and collaboration among project team members, stakeholders, and other key project participants."
+            }
+        ],
+        "title": "Project management Consulting"
+    },
+    {
+        "id": 3,
+        "img": "/assets/img/services/03.jpg",
+        "data1": {
+            "id": 3.12,
+            "description": "Strategy consulting is a professional service that helps organizations develop and implement effective business strategies. The scope of work for a strategy consulting engagement can vary depending on the specific needs of the organization, but common activities include:"
+        },
+        "data2": {
+            "id": 3.13,
+            "description": "Strategy consulting can help organizations to improve their performance, identify new opportunities, and adapt to changes in the market. It requires a deep understanding of the organization, the industry, and the market, as well as the ability to think creatively and strategically. Additionally, strategy consulting requires strong analytical, problem-solving, and communication skills. It's also important to note that strategy consulting is an ongoing process that requires continuous monitoring, evaluation, and adaptation to changes."
+        },
+        "image": "/assets/img/details/3.jpg",
+        "description": [
+            {
+                "id": 3.1,
+                "description": "Assessing the organization's current strategy, operations, and performance."
+            },
+            {
+                "id": 3.2,
+                "description": "Identifying opportunities for growth and improvement."
+            },
+            {
+                "id": 3.3,
+                "description": "Conducting market and industry research to understand the competitive landscape."
+            },
+            {
+                "id": 3.4,
+                "description": "Developing strategic options and recommendations for the organization."
+            },
+            {
+                "id": 3.5,
+                "description": "Supporting the implementation of the chosen strategy, including developing action plans and identifying key performance indicators."
+            },
+            {
+                "id": 3.6,
+                "description": "Providing ongoing support and guidance to ensure the successful implementation of the strategy."
+            },
+            {
+                "id": 3.7,
+                "description": "Identifying potential risks and developing mitigation plans."
+            },
+            {
+                "id": 3.8,
+                "description": "Facilitating communication and alignment among key stakeholders and decision-makers."
+            },
+            {
+                "id": 3.9,
+                "description": "Evaluating the results of the strategy implementation and making adjustments as needed."
+            },
+            {
+                "id": 3.10,
+                "description": "Providing training and coaching to improve strategic thinking and decision-making skills."
+            }
+        ],
+        "title": "Strategy Consulting"
+    },
+    {
+        "id": 4,
+        "img": "/assets/img/services/05.jpg",
+        "data1": {
+            "id": 4.61,
+            "description": "<strong>Management consulting</strong> is a professional service that helps organizations improve their performance by providing expert advice and support on various business and management issues. The scope of work for a management consulting engagement can vary depending on the specific needs of the organization, but common activities include"
+        },
+        "data2": {
+            "id": 4.62,
+            "description": "Management consulting can help organizations to improve their performance and achieve their goals by providing expert advice and support on various business and management issues. It requires a deep understanding of the organization, the industry, and the market, as well as strong analytical, problem-solving, and communication skills. Additionally, management consulting is an ongoing process that requires continuous monitoring, evaluation, and adaptation to changes"
+        },
+        "image": "/assets/img/details/4.jpg",
+        "description": [
+            {
+                "id": 4.1,
+                "description": "Assessing the organization's current performance, operations, and processes to identify areas for improvement."
+            },
+            {
+                "id": 4.2,
+                "description": "Developing recommendations and strategies to improve performance, efficiency, and effectiveness."
+            },
+            {
+                "id": 4.3,
+                "description": "Supporting the implementation of the chosen strategy, including developing action plans, identifying key performance indicators, and providing ongoing guidance and support."
+            },
+            {
+                "id": 4.4,
+                "description": "Providing training and coaching to improve management skills and knowledge."
+            },
+            {
+                "id": 4.5,
+                "description": "Facilitating communication and alignment among key stakeholders and decision-makers."
+            },
+            {
+                "id": 4.6,
+                "description": "Assessing the organization's current performance, operations, and processes to identify areas for improvement."
+            },
+            {
+                "id": 4.7,
+                "description": "Identifying potential risks and developing mitigation plans."
+            },
+            {
+                "id": 4.8,
+                "description": "Conducting market and industry research to understand the competitive landscape."
+            },
+            {
+                "id": 4.9,
+                "description": "Assessing and optimizing the structure, processes, and culture of an organization to improve performance and alignment with strategic goals."
+            },
+            {
+                "id": 4.10,
+                "description": "Supporting change management initiatives, including organizational design, process improvement, and communication strategies."
+            },
+            {
+                "id": 4.11,
+                "description": "Evaluating the results of the implementation and making adjustments as needed."
+            }
+        ],
+        "title": "Management consulting"
+    },
+    {
+        "id": 5,
+        "img": "/assets/img/services/04.jpg",
+        "data1": {
+            "id": 5.61,
+            "description": "<strong>Human resource (HR) consulting</strong> is a professional service that helps organizations improve their performance by providing expert advice and support on various HR-related issues. The scope of work for an HR consulting engagement can vary depending on the specific needs of the organization, but common activities include:"
+        },
+        "data2": {
+            "id": 5.62,
+            "description": "HR consulting can help organizations to improve their performance and achieve their goals by providing expert advice and support on various HR-related issues. It requires a deep understanding of the organization, the industry, and the market, as well as strong analytical, problem-solving, and communication skills. Additionally, HR consulting is an ongoing process that requires continuous monitoring, evaluation, and adaptation to changes."
+        },
+        "image": "/assets/img/details/5.jpg",
+        "description": [
+            {
+                "id": 5.1,
+                "description": "Assessing the organization's current HR practices, policies, and procedures to identify areas for improvement."
+            },
+            {
+                "id": 5.2,
+                "description": "Developing recommendations and strategies to improve HR processes and practices, such as recruitment, selection, performance management, and employee retention."
+            },
+            {
+                "id": 5.3,
+                "description": "Supporting the implementation of the chosen strategy, including developing action plans, identifying key performance indicators, and providing ongoing guidance and support."
+            },
+            {
+                "id": 5.4,
+                "description": "Providing training and coaching to improve HR skills and knowledge."
+            },
+            {
+                "id": 5.5,
+                "description": "Facilitating communication and alignment among key stakeholders and decision-makers."
+            },
+            {
+                "id": 5.6,
+                "description": "Identifying potential risks and developing mitigation plans."
+            },
+            {
+                "id": 5.7,
+                "description": "Assessing and optimizing the structure, processes, and culture of an organization to improve performance and alignment with strategic goals."
+            },
+            {
+                "id": 5.8,
+                "description": "Supporting change management initiatives, including organizational design, process improvement, and communication strategies."
+            },
+            {
+                "id": 5.9,
+                "description": "Providing legal compliance advice, including understanding and implementing laws related to labor and employment."
+            },
+            {
+                "id": 5.10,
+                "description": "Evaluating the results of the implementation and making adjustments as needed"
+            }
+        ],
+        "title": "Human Resource Consulting"
+    }
+]

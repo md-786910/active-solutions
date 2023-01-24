@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "link": "Product Consulting",
+        "title": "PRODUCT CONSULTING"
+    },
+    {
+        "id": 2,
+        "link": "Project management Consulting",
+        "title": "Project management Consulting"
+    },
+    {
+        "id": 3,
+        "link": "Strategy Consulting",
+        "title": "Strategy Consulting"
+    },
+    {
+        "id": 4,
+        "link": "Human Resource Consulting",
+        "title": "Human Resource Consulting"
+    },
+    {
+        "id": 5,
+        "link": "Management consulting",
+        "title": "Management consulting"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "icon": "https://avu.net.in/assets/img/product/etos/modules/assets.png",
+        "title": "Product Consulting",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid.",
+        "link": "/services/Product Consulting"
+    },
+    {
+        "id": 2,
+        "icon": "https://avu.net.in/assets/img/product/etos/modules/assets.png",
+        "title": "Project Management Consulting",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid.",
+        "link": "/services/Project management Consulting"
+    },
+    {
+        "id": 3,
+        "icon": "https://avu.net.in/assets/img/product/etos/modules/assets.png",
+        "title": "Strategy Consulting",
+        "link": "/services/Strategy Consulting",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 5,
+        "icon": "https://avu.net.in/assets/img/product/etos/modules/assets.png",
+        "title": "Human Resource Consulting",
+        "link": "/services/Human Resource Consulting",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 6,
+        "icon": "https://avu.net.in/assets/img/product/etos/modules/assets.png",
+        "title": "Management Consulting",
+        "link": "/services/Management consulting",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    }
+]

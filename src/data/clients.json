@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "image": "assets/img/brand/06.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 2,
+        "image": "assets/img/brand/07.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 3,
+        "image": "assets/img/brand/08.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 4,
+        "image": "assets/img/brand/09.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 5,
+        "image": "assets/img/brand/10.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 6,
+        "image": "assets/img/brand/11.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 7,
+        "image": "assets/img/brand/12.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 8,
+        "image": "assets/img/brand/13.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 9,
+        "image": "assets/img/brand/14.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 10,
+        "image": "assets/img/brand/15.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 11,
+        "image": "assets/img/brand/16.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 12,
+        "image": "assets/img/brand/17.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 13,
+        "image": "assets/img/brand/18.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 14,
+        "image": "assets/img/brand/19.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 15,
+        "image": "assets/img/brand/20.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 16,
+        "image": "assets/img/brand/21.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 17,
+        "image": "assets/img/brand/22.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 18,
+        "image": "assets/img/brand/23.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 19,
+        "image": "assets/img/brand/24.png",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 20,
+        "image": "assets/img/brand/25.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 21,
+        "image": "assets/img/brand/26.jpeg",
+        "companyname": "Lorem Ipsum"
+    },
+    {
+        "id": 22,
+        "image": "assets/img/brand/27.jpeg",
+        "companyname": "Lorem Ipsum"
+    }
+]
