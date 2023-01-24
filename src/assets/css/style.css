@@ -55,7 +55,9 @@ img {
   -webkit-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
 }
-
+a {
+  text-decoration: none;
+}
 a:focus,
 input:focus,
 textarea:focus,

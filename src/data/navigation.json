@@ -17,12 +17,12 @@
             {
                 "id": 3.1,
                 "link": "/services/Product Consulting",
-                "linkText": "PRODUCT CONSULTING"
+                "linkText": "Product Consulting"
             },
             {
                 "id": 3.2,
                 "link": "/services/Project management Consulting",
-                "linkText": "Project management Consulting"
+                "linkText": "Project Management Consulting"
             },
             {
                 "id": 3.3,
@@ -37,7 +37,7 @@
             {
                 "id": 3.5,
                 "link": "/services/Management consulting",
-                "linkText": "Management consulting"
+                "linkText": "Management Consulting"
             }
         ]
     },
